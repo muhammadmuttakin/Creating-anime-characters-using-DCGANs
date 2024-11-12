@@ -17,3 +17,7 @@ Generate unique anime character images using **Deep Convolutional Generative Adv
 - **Keras**: Sederhana dan powerful, memudahkan pembuatan dan pelatihan model dengan dokumentasi dan komunitas luas.
 
 ---
+## 🚀 Cara Menjalankan
+1. Clone repositori:
+   ```bash
+   git clone https://github.com/username/Creating-anime-characters-using-DCGANs.git

@@ -1,7 +1,9 @@
 # 🌸 Creating Anime Characters with DCGANs & Keras 🌸
 
 Generate unique anime character images using **Deep Convolutional Generative Adversarial Networks (DCGANs)**, built with **Keras**.
-
+<div>
+  <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
+</div>
 ---
 
 ## 🛠 Teknologi yang Digunakan
